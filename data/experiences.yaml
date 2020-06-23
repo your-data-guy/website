@@ -1,0 +1,32 @@
+# Your experiences
+experiences:
+  
+
+  - designation: Data Analytics Consultant
+    company:
+      name: Freelance
+      location: India
+      overview: I provide value to businesses by helping them make data driven decisions and increase data literacy in their teams.
+    start: August 2018
+    # end: May 2017
+    responsibilities:
+      - Design, execute and deploy data science and machine learning projects both on and off-site.
+      - Understand business pain points and provide scalable and precise solutions based on data.
+      - Provide training in data literacy to enhance in-house teams.
+      
+  - designation: Data Scientist
+    company:
+      name: Valiance Solutions
+      url: "https://valiancesolutions.com/"
+      location: Noida Branch
+      # company overview
+      overview: Valiance brings years of experience in successfully applying Artificial Intelligence to wide variety of business problems globally.
+    start: April 2019
+    # don't provide end date if you are currently working there. It will be replaced by "Present"
+    end: Dec 2020
+    # give some points about what was your responsibilities at the company.
+    responsibilities:
+      - Design, execute and deploy data science and machine learning projects both on and off-site.
+      - Independently manage and deliver on stakeholder expectations.
+      - Scope out potential business problems for clients and suggest data-driven solutions.
+

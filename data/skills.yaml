@@ -1,0 +1,32 @@
+# Your Skills.
+# Give a summary of you each skill in summary section.
+skills:
+- name: R Programming
+  icon: "images/skills/RStudio-icon.png"
+  summary: "Capable in all aspects of a data science pipeline including Data Preprocessing, Wrangling, and Visualisation. Proficient in building and deploying Machine Learning models."
+
+- name: Python Programming
+  icon: "images/skills/python.png"
+  summary: "Capable in all aspects of a data science pipeline including Data Preprocessing, Wrangling, and Visualisation. Proficient in building and deploying Machine Learning models."
+
+- name: SQL
+  icon: "images/skills/Sql.png"
+  summary: "Experienced and competent in CRUD queries as well as Data Aggregation, transformations and Joins. Mostly used for Data Extraction from Client Servers."
+
+- name: Natural Language Processing
+  icon: "images/skills/nlp.png"
+  summary: "Experienced in creating vector representation of text. Capable in performing Sentiment Analysis, Topic Modelling, Text Classification, Text Summarization, Named Entity Extraction and Text Similarity Comparisons"
+
+- name: Web Scraping
+  icon: "images/skills/webscraping.png"
+  summary: "Use Extenisvely to build my own datasets for analysis. Can Scrape static or dynamic information using Scrapy and Selenium"
+
+- name: Tableau
+  icon: "images/skills/tableau-software.svg"
+  summary: "Build interactive dashboard with custom filters, views and rollups. Often use for interactive reporting and dashboarding"
+
+- name: Git
+  icon: "images/skills/git.png"
+  summary: "Experienced with git based development. Mostly, use Github and Bitbucket. Also have experience in working with GitLab."
+
+

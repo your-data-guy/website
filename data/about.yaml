@@ -1,0 +1,57 @@
+# your designation
+designation: Freelance Data Scientist
+# your company information
+
+
+# your resume. this file path should be relative to you "static" directory
+resume: "files/resume.pdf"
+
+# a summary about you
+summary: 'I am a passionate Data Scientist with 3 years of working experience. I provide data analytics solutions and data literacy training to businesses. My work helps businesses make data driven decisions while developing a data culture within their team. Sometimes, I work on some fun projects such as building web apps or web scraping.'
+
+# your social links
+# give as many as you want. use font-awesome for the icons.
+socialLinks:
+- name: Email
+  icon: "fas fa-envelope"
+  url: "palash@yourdataguy.in"
+
+- name: Github
+  icon: "fab fa-github"
+  url: "https://github.com/your-data-guy"
+
+- name: Instagram
+  icon: "fab fa-instagram"
+  url: "https://www.instagram.com/your_data_guy/"
+
+- name: LinkedIn
+  icon: "fab fa-linkedin"
+  url: "https://www.linkedin.com/in/palash-jain-a78008128/"
+
+- name: Twitter
+  icon: "fab fa-twitter"
+  url: "#"
+
+- name: Facebook
+  icon: "fab fa-facebook"
+  url: "#"
+
+# your soft skills
+# give the percentage between 50 to 100 with 5 intervals.
+# currently supported color: blue, yellow, pink, green
+softSkills:
+- name: Leadership
+  percentage: 85
+  color: blue
+- name: Team Work
+  percentage: 90
+  color: yellow
+- name: Communication
+  percentage: 100
+  color: pink
+- name: Management
+  percentage: 85
+  color: green
+- name: Training
+  percentage: 90
+  color: yellow

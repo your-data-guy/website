@@ -1,0 +1,68 @@
+# filter buttons
+buttons:
+  - name: All
+    filter: "all"
+  - name: Professional
+    filter: "professional"
+  - name: Academic
+    filter: "academic"
+  - name: Hobby
+    filter: "hobby"
+
+# your projects
+projects:
+    
+  - name: Recruitment Funnel Optimization
+    logo: images/projects/recruit.png
+    role: Business Analyst
+    timeline: "March 2020"
+    #repo: https://github.com/kubernetes/kubernetes # if your project is public repo on github, then provide this link. it will show star count.
+    url: "https://valiancesolutions.com/case_study/agent-recruitment-funnel-optimisation/"  # if your project is not a public repo but it has a website, or any external details url then provide it here. don't provide "repo" and "url" simultaneously.
+    summary: Recruitment Funnel Optimization for Insurance Agent Recruitment using statistical analysis and data visualisation.
+    tags: ["professional", "Business Analyst", "Statistics"]
+
+  - name: News Recommendation System
+    logo: images/projects/news-icon.png
+    role: Data Scientist
+    timeline: "January 2020"
+    #repo: https://github.com/tensorflow/tensorflow
+    url: '/files/news_recommendation.pdf'
+    summary: A Content-based News Recommendation System built using Python aimed at increased CTR for news notifications.
+    tags: ["professional","machine-learning"]
+    
+  - name: Image Information Extraction 
+    logo: images/projects/image.png
+    role: Data Scientist
+    timeline: "July 2019"
+    3repo: https://github.com/kubernetes/kubernetes # if your project is public repo on github, then provide this link. it will show star count.
+    url: "/files/information_extraction.pdf"  # if your project is not a public repo but it has a website, or any external details url then provide it here. don't provide "repo" and "url" simultaneously.
+    summary: Automated information extraction from Government ID Cards using Google's Vision API and OpenCV in Python for customer onboarding.
+    tags: ["professional", "Business Analyst", "Statistics"]
+  
+  - name: Credit Risk Modeling 
+    logo: images/projects/credit risk.png
+    role: Business Analyst
+    timeline: "April 2019"
+    #repo: https://github.com/kubernetes/kubernetes # if your project is public repo on github, then provide this link. it will show star count.
+    url: "/files/credit_risk_2.pdf"  # if your project is not a public repo but it has a website, or any external details url then provide it here. don't provide "repo" and "url" simultaneously.
+    summary: Automated and optimized assignment of credit limits to micro loan borrowers based on probability of default models.
+    tags: ["professional", "Business Analyst", "Statistics"]
+
+  - name: Academic Research Article
+    logo: images/projects/academic_paper.png
+    role: Data Visualisation Expert
+    timeline: "March 2019"
+    url: "http://molpharm.aspetjournals.org/content/96/3/378/tab-article-info"
+    summary: Identifying the Optimal Conditions for Assessing the Kinetics of Low-Affinity Compounds
+    tags: ["academic","kinetics"]
+    
+  - name: Academic Shiny Apps
+    logo: images/projects/shiny.png
+    role: Data Scientist
+    timeline: "March 2019"
+    #repo: https://github.com/tensorflow/tensorflow
+    url: '/files/shiny.pdf'
+    summary: Shiny Apps for simulating and visualising pharmacokinetic models to study ligand binding to proteins.
+    tags: ["academic","shiny"]
+
+  
