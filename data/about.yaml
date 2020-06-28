@@ -55,3 +55,6 @@ softSkills:
 - name: Training
   percentage: 90
   color: yellow
+- name: Documentation
+  percentage: 85
+  color: blue
