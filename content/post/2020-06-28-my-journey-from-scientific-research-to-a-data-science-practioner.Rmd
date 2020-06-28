@@ -1,0 +1,29 @@
+---
+title: My Journey from Scientific Research to a Data Science Practioner
+author: Palash Jain
+date: '2020-06-28'
+categories:
+  - Personal
+tags:
+  - background
+  - career change
+  - data science
+  - transition
+slug: my-journey-from-scientific-research-to-a-data-science-practioner
+hero: /images/bp1.jpg
+summary: "I got into Data Science because I was lazy and curious, I got better at Data Science by working on real and independent projects, and I stayed in data science because I felt at home"
+---
+
+
+I come from a town where not a lot of people understand the meaning of Data, let alone Data Science. Growing up I used to think that I am a major misfit, because while I was great at studies, I didn't want to pursue the noble professions that were the default choices for any student who showed any prowess in mathematics and science. When the time came to evaluate exactly what did I want to do after completing High School, I decided to go with my curiosities and what were then Naive Visions.
+
+- I was fascinated with how someone who is suffering from any illness, suddenly starts feeling better after consuming some seemingly random pills. I wanted to know how diseases work, how medicines works and what happens in the human body throughout.
+- I felt that the education system that I went through had many gaps and opportunities for improvement. I envisioned that I would complete different parts of my education in different countries, study their education systems and bring back years of knowledge to apply and improve our educational system.
+
+So just to set up some context, I was a math guy. I loved working through mathematical problems, breaking them down, getting intermediate results and ultimately solving the problem. Until the completion of my high school, I had studied solely math, physics, chemistry and Informatics Practices (basically Java and SQL). This was in stark contradiction with what I wanted to study for my under-graduation, Medicinal Chemistry. For a kid who hated drawing and sucked at the one or two Biology classes he had taken, this was strange.
+
+Anyways, long story short, I ended up graduating with a Bachelor of Science in Medicinal Chemistry from the University of Auckland, New Zealand. Before I sat my final year examinations, I had an offer for a fully-funded Masters program in Medicinal Chemistry at University of Copenhagen, Denmark. As I settled into my Masters and started working on my Master's Dissertation in the renowned [Gloriam Group](https://drug.ku.dk/disciplines/peptides-and-proteins/gloriam-group/), I found myself in the company of a couple of data-savvy people. It was through discussions with them that I developed a keen interest in Data Analytics. I got a chance to apply some of the techniques we use in modern data science in the course of my dissertation. I also got a chance to remove the rust on my programming and scripting proficiency.
+
+I started a few different MOOCs on Data Science and Python Programming on Coursera and by the time I finished my post-graduation, I developed reasonable competency in the field. I had been accepted for a PhD fellowship at [COMPARE](https://www.birmingham-nottingham.ac.uk/compare/) on a project that involved using Machine Learning to study protein interactions. It was also around this time that I started working on Fiverr as a freelancer offering services ranging from data visualisation to building and deploying machine learning models. I worked on many interesting projects both academic and real world. More than anything, I think it was this experience of working in projects and finding solutions to problems that were not taught in MOOCs was what really consolidated me into this field. I still google a lot of stuff for all the projects I do on a daily basis. But I think that is something most programmers do.
+
+So in summary, A mixture of peer discussions, reading on online platforms, laziness in analysing millions of rows of Virtual Screening Data, and a quest to automate my analyses led me to explore Data Science. To me, working with data, wrangling it into answering my questions and visualising it to people so that they can see things they couldn't see before are some of the most satisfying feelings I have felt.

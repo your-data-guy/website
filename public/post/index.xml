@@ -6,18 +6,18 @@
     <description>Recent content in Posts on Your Data Guy</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 27 Jun 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 28 Jun 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>test</title>
-      <link>/post/test/</link>
-      <pubDate>Sat, 27 Jun 2020 00:00:00 +0000</pubDate>
+      <title>My Journey from Scientific Research to a Data Science Practioner</title>
+      <link>/post/my-journey-from-scientific-research-to-a-data-science-practioner/</link>
+      <pubDate>Sun, 28 Jun 2020 00:00:00 +0000</pubDate>
       
-      <guid>/post/test/</guid>
-      <description></description>
+      <guid>/post/my-journey-from-scientific-research-to-a-data-science-practioner/</guid>
+      <description>I got into Data Science because I was lazy and curious, I got better at Data Science by working on real and independent projects, and I stayed in data science because I felt at home</description>
     </item>
     
   </channel>
