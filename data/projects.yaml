@@ -34,9 +34,9 @@ projects:
     logo: images/projects/image.png
     role: Data Scientist
     timeline: "July 2019"
-    3repo: https://github.com/kubernetes/kubernetes # if your project is public repo on github, then provide this link. it will show star count.
+    #repo: https://github.com/kubernetes/kubernetes # if your project is public repo on github, then provide this link. it will show star count.
     url: "/files/information_extraction.pdf"  # if your project is not a public repo but it has a website, or any external details url then provide it here. don't provide "repo" and "url" simultaneously.
-    summary: Automated information extraction from Government ID Cards using Google's Vision API and OpenCV in Python for onboarding.
+    summary: Information extraction from ID Cards using Google's Vision API and OpenCV in Python for onboarding.
     tags: ["professional", "Business Analyst", "Statistics"]
   
   - name: Credit Risk Modeling 
